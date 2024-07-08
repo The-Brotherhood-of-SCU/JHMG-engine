@@ -1,4 +1,10 @@
-本人为四川大学2023级大一本科生，初学C++，项目代码质量不高，欢迎各路大佬给予指正
+本人为四川大学2023级大一本科生，初学C++，项目代码质量不高，欢迎各路大佬给予指正  
+
+<div align="center">
+
+ **项目浏览量** ![counter](https://counter.seku.su/cmoe?name=JHMG-engine&theme=mbs)
+
+</div>
 
 # ✅JHMG 游戏引擎
 ![Language](https://img.shields.io/badge/language-c++-brightgreen) ![author](https://img.shields.io/badge/auther-jeanhua-blue)
